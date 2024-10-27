@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|c:\\users\\lenovo\\source\\repos\\mercadoapp\\mercadoapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\views\\manage\\managelogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\views\\manage\\managelogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\views\\empleadoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\views\\empleadoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\views\\proveedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\views\\proveedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\views\\shared\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\views\\shared\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\migrations\\202410271621373_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\migrations\\202410271621373_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\models\\supermercadocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\models\\supermercadocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\controllers\\empleadoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\mercadoapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800234E2-B4BA-4D4B-8ECF-E82B8DD067DD}|MercadoApp\\MercadoApp.csproj|solutionrelative:mercadoapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MercadoApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MercadoApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T17:17:53.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageLogins.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Manage\\ManageLogins.cshtml",
+              "RelativeDocumentMoniker": "MercadoApp\\Views\\Manage\\ManageLogins.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Manage\\ManageLogins.cshtml",
+              "RelativeToolTip": "MercadoApp\\Views\\Manage\\ManageLogins.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T17:15:27.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Proveedors\\Index.cshtml",
+              "RelativeDocumentMoniker": "MercadoApp\\Views\\Proveedors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Proveedors\\Index.cshtml",
+              "RelativeToolTip": "MercadoApp\\Views\\Proveedors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T17:04:54.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Empleadoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MercadoApp\\Views\\Empleadoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Empleadoes\\Index.cshtml",
+              "RelativeToolTip": "MercadoApp\\Views\\Empleadoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T17:03:36.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Productoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MercadoApp\\Views\\Productoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Productoes\\Index.cshtml",
+              "RelativeToolTip": "MercadoApp\\Views\\Productoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T16:58:13.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MercadoApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MercadoApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T16:35:08.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "estilos.css",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Shared\\estilos.css",
+              "RelativeDocumentMoniker": "MercadoApp\\Views\\Shared\\estilos.css",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Shared\\estilos.css",
+              "RelativeToolTip": "MercadoApp\\Views\\Shared\\estilos.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-27T16:33:31.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MercadoApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MercadoApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswD4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T16:24:47.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202410271621373_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Migrations\\202410271621373_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MercadoApp\\Migrations\\202410271621373_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Migrations\\202410271621373_InitialCreate.cs",
+              "RelativeToolTip": "MercadoApp\\Migrations\\202410271621373_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:21:45.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MercadoApp\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MercadoApp\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:07:42.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Web.config",
+              "RelativeDocumentMoniker": "MercadoApp\\Web.config",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Web.config",
+              "RelativeToolTip": "MercadoApp\\Web.config",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-27T16:00:38.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmpleadoesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Controllers\\EmpleadoesController.cs",
+              "RelativeDocumentMoniker": "MercadoApp\\Controllers\\EmpleadoesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Controllers\\EmpleadoesController.cs",
+              "RelativeToolTip": "MercadoApp\\Controllers\\EmpleadoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:57:59.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProveedorsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Controllers\\ProveedorsController.cs",
+              "RelativeDocumentMoniker": "MercadoApp\\Controllers\\ProveedorsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Controllers\\ProveedorsController.cs",
+              "RelativeToolTip": "MercadoApp\\Controllers\\ProveedorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:57:28.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "MercadoApp\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "MercadoApp\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:56:57.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "MercadoApp\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "MercadoApp\\Controllers\\ProductoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:56:26.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SupermercadoContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Models\\SupermercadoContext.cs",
+              "RelativeDocumentMoniker": "MercadoApp\\Models\\SupermercadoContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Models\\SupermercadoContext.cs",
+              "RelativeToolTip": "MercadoApp\\Models\\SupermercadoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:54:04.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "MercadoApp\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Models\\Empleado.cs",
+              "RelativeToolTip": "MercadoApp\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:53:20.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "MercadoApp\\Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Models\\Proveedor.cs",
+              "RelativeToolTip": "MercadoApp\\Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:52:44.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "MercadoApp\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Models\\Venta.cs",
+              "RelativeToolTip": "MercadoApp\\Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:52:08.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "MercadoApp\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MercadoApp\\MercadoApp\\Models\\Producto.cs",
+              "RelativeToolTip": "MercadoApp\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:51:39.066Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

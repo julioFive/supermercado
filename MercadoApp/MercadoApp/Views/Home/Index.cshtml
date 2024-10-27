@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main class="home-container">
+    <section class="hero-section">
+        <h1>Bienvenido a SuperMercado Express</h1>
+        <p class="lead">Calidad y frescura en cada producto, servicio excepcional en cada visita.</p>
+        <div class="hero-buttons">
+            <a href="@Url.Action("Index", "Productoes")" class="btn btn-primary btn-lg">Ver Productos</a>
+            <a href="@Url.Action("Index", "Proveedors")" class="btn btn-outline-light btn-lg">Nuestros Proveedores</a>
+        </div>
+    </section>
+
+    <div class="features-grid">
+        <section class="feature-card">
+            <br /><br />
+            <i class="fas fa-shopping-basket feature-icon"></i>
+            <h2>Productos de Calidad</h2>
+            <p>
+                Ofrecemos una amplia selección de productos frescos y de alta calidad.
+                Desde frutas y verduras hasta productos gourmet, garantizamos la mejor
+                experiencia de compra para nuestros clientes.
+            </p>
+            <a href="@Url.Action("Index", "Productoes")" class="btn btn-outline-primary">Explorar Productos</a>
+        </section>
+
+        <section class="feature-card">
+            <br /><br />
+            <i class="fas fa-truck-loading feature-icon"></i>
+            <h2>Proveedores Confiables</h2>
+            <p>
+                Trabajamos con los mejores proveedores del mercado, garantizando
+                productos frescos y de primera calidad. Nuestras alianzas estratégicas
+                nos permiten ofrecer los mejores precios.
+            </p>
+            <a href="@Url.Action("Index", "Proveedors")" class="btn btn-outline-primary">Conocer Proveedores</a>
+        </section>
+
+        <section class="feature-card"><br /><br />
+            <i class="fas fa-users feature-icon"></i>
+            <h2>Personal Capacitado</h2>
+            <p>
+                Nuestro equipo está altamente capacitado para brindar la mejor atención.
+                Contamos con expertos en cada área para asesorarte en tus compras y
+                garantizar tu satisfacción.
+            </p>
+            <a href="@Url.Action("Index", "Empleadoes")" class="btn btn-outline-primary">Nuestro Equipo</a>
+        </section>
+    </div>
+</main>
